@@ -1,5 +1,5 @@
 # local-branch-cleaner
-Utility script helping you clean stale and (on remote) already merged branches from your local machine (with whitelist support) 🌲🪵 This script is helpful for those who work in lots of repositories, as this tends to lead to a mess of redundant local branches after some time.
+This script is helpful for those who work in lots of repositories, as this tends to lead to a mess of redundant local branches after some time. 🌲🪵
 
 Feel free to take inspiration from, modify or improve this small project to your liking without notice to me.
 
